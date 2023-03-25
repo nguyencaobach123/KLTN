@@ -1,0 +1,2 @@
+[2023-03-25 09:40:28,994][run.py][line:118][INFO] start training on GPU 0!
+[2023-03-25 09:40:28,995][run.py][line:119][INFO] Namespace(attn_type='rgcn', batch_size=16, bert_dim=1024, bert_model_dir='', bert_tokenizer_dir='', bucket_number=7, cuda=False, dataset_name='IEMOCAP', dropout=0.2, emb_dim=1024, epochs=30, gnn_layers=4, hidden_dim=300, hybrid_curriculum=True, lr=0.0005, max_epoch_per_baby_step=0, max_grad_norm=5.0, max_sent_len=200, mlp_layers=2, no_cuda=True, no_rel_attn=False, nodal_att_type=None, tensorboard=False, windowf=0, windowp=1)
